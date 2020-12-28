@@ -1,2 +1,2 @@
 # Postgraduate Courses -- ML
-This is some assignments, projects and notes about Machine Learning course.
+There are some assignments, projects and notes about Machine Learning course.
